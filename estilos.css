@@ -1,0 +1,605 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+ background-image: url("");
+    
+background-repeat: no-repeat;
+    
+    }
+
+.fondomatematicas2{
+    
+  background-image: url("");
+        
+  background-repeat: no-repeat;
+        
+   }
+
+ .fondotecnologia2{
+    
+  background-image: url("");
+            
+background-repeat: no-repeat;
+     
+ }
+   .fondobiologia2{
+    
+background-image: url("");
+                
+ background-repeat: no-repeat;
+                
+                }              
+  .fondoreligion2{
+    
+background-image: url("");
+          
+background-repeat: no-repeat;
+                 
+ }
+  .fondoingles2{
+    
+background-image: url("");
+                        
+background-repeat: no-repeat;
+                        
+  }
+    
+  
+  .fondosociales2{
+    
+    background-image: url("");
+                            
+    background-repeat: no-repeat;
+                            
+      }
+    
+    
+    .img{
+    
+    position: relative;
+    
+     
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("moon.jpg");
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: rgb(1, 15, 36);
+    
+     
+    
+    }
+    .contenido{
+
+        height: 100px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagenbio{
+        
+         
+        
+  background-repeat: no-repeat;
+            
+   float:left;
+            
+  height: 200px;
+            
+   width: 230px;
+    
+  margin-left: 5px;
+            
+ margin-right:5px;
+            
+ background-image: url("albinismo.jpg");
+            
+     }
+ .imagenbiol{
+        
+         
+        
+  background-repeat: no-repeat;
+                
+  float:left;
+              
+  height: 200px;
+                
+  width: 260px;
+                
+ margin-left: 5px;
+                
+ margin-right:5px;
+                
+ background-image: url("ani.jpg");
+                
+ }
+                    
+        
+        
+   .textobio{
+        
+    text-align: justify;
+    
+    color: rgb(4, 2, 39);
+    
+    font-size: 30px;
+    
+    
+    
+    }
+
+    .imagenbiolo{
+        
+      background-repeat: no-repeat;
+                
+  float:left;
+              
+  height: 298px;
+                
+  width: 3300px;
+                
+ margin-left: 5px;
+                
+ margin-right:5px;
+                
+ background-image: url("fibro.jpg");
+      
+      
+      }
+
+      .textobiol{
+        
+        text-align: justify;
+        
+        color: rgb(4, 2, 39);
+        
+        font-size: 30px;
+        
+        
+        
+        }
+
+        .imagenbiolog{
+        
+          background-repeat: no-repeat;
+                    
+      float:left;
+                  
+      height: 400px;
+                    
+      width: 460px;
+                    
+     margin-left: 5px;
+                    
+     margin-right:5px;
+                    
+     background-image: url("pulm.jpg");
+          
+          
+          }
+    
+        
+        
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+            .imagenmat{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 310px;
+                
+                margin-left: 11px;
+                
+                margin-right:11px;
+                
+                background-image: url("poli.jpg");
+                
+                }
+                    
+             
+    
+            
+            .textomat{
+            
+            text-align: justify;
+            
+            color:rgb(4, 2, 39);
+            
+            font-size:30px;
+            
+            
+            
+            }
+
+            .contenido{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 410px;
+                
+                 
+                
+                }
+                
+                .imagensoc{
+            
+             
+            
+                  background-repeat: no-repeat;
+                  
+                  float:left;
+                  
+                  height: 1100px;
+                  
+                  width: 1900px;
+                  
+                  margin-left: 5px;
+                  
+                  margin-right:5px;
+                  
+                  background-image: url("mapa\ conceptual\ azul\ sociales\ .png");
+                  
+                  }
+
+                  .imagensoci{
+            
+             
+            
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 360px;
+                    
+                    width: 600px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("hisp.jpg");
+                    
+                    }
+
+                    .textosoci{
+            
+                        text-align: justify;
+                        
+                        color: rgb(4, 2, 39);
+                        
+                        font-size: 30px;
+                        
+                        
+                        
+                        }
+ 
+                        .contenido{
+            
+                            height: 280px;
+                            
+                            width: 100%;
+                            
+                            position: absolute;
+                            
+                            top: 410px;
+                            
+                             
+                            
+                            }
+                            .imagening{
+            
+             
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                
+                                height: 400px;
+                                
+                                width: 460px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url("COR.jpg");
+                                
+                                }
+            
+                                .textoing{
+                        
+                                    text-align: justify;
+                                    
+                                    color: rgb(1, 14, 34);
+                                    
+                                    font-size: 30px;
+                                    
+                                    
+                                    
+                                    }
+                                    .contenido{
+            
+                                        height: 280px;
+                                        
+                                        width: 100%;
+                                        
+                                        position: absolute;
+                                        
+                                        top: 410px;
+                                        
+                                         
+                                        
+                                        }
+                                        .imagenrel{
+                        
+                         
+                        
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 400px;
+                                            
+                                            width:460px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url("di.jpg")
+                                            
+                                            }
+                        
+                                            .textorel{
+                                    
+                                                text-align: justify;
+                                                
+                                                color: rgb(1, 14, 34);
+                                                
+                                                font-size: 30px;
+                                                
+                                                
+                                                
+                                                }
+                                                .contenido{
+            
+                                                    height: 280px;
+                                                    
+                                                    width: 100%;
+                                                    
+                                                    position: absolute;
+                                                    
+                                                    top: 410px;
+                                                    
+                                                     
+                                                    
+                                                    }
+                                                    .imagentecno{
+                                    
+                                     
+                                    
+                                                        background-repeat: no-repeat;
+                                                        
+                                                        float:left;
+                                                        
+                                                        height: 200px;
+                                                        
+                                                        width: 260px;
+                                                        
+                                                        margin-left: 5px;
+                                                        
+                                                        margin-right:5px;
+                                                        
+                                                        background-image: url("inter.jpg");
+                                                        
+                                                        }
+
+                                                        .imagentecnol{
+                                    
+                                     
+                                    
+                                                          background-repeat: no-repeat;
+                                                          
+                                                          float:left;
+                                                          
+                                                          height: 200px;
+                                                          
+                                                          width: 260px;
+                                                          
+                                                          margin-left: 5px;
+                                                          
+                                                          margin-right:5px;
+                                                          
+                                                          background-image: url("cel.jpg");
+                                                          
+                                                          }
+                                                          .imagentecnol{
+                                    
+                                     
+                                    
+                                                            background-repeat: no-repeat;
+                                                            
+                                                            float:left;
+                                                            
+                                                            height: 200px;
+                                                            
+                                                            width: 260px;
+                                                            
+                                                            margin-left: 5px;
+                                                            
+                                                            margin-right:5px;
+                                                            
+                                                            background-image: url("cel.jpg");
+                                                            
+                                                            }
+
+
+
+
+                                                            .imagentecnolo{
+                                    
+                                     
+                                    
+                                                              background-repeat: no-repeat;
+                                                              
+                                                              float:left;
+                                                              
+                                                              height: 200px;
+                                                              
+                                                              width: 260px;
+                                                              
+                                                              margin-left: 5px;
+                                                              
+                                                              margin-right:5px;
+                                                              
+                                                              background-image: url("cam.jpg");
+                                                              
+                                                              }
+                                        
+                                                              .imagentecnolog{
+                                    
+                                     
+                                    
+                                                                background-repeat: no-repeat;
+                                                                
+                                                                float:left;
+                                                                
+                                                                height: 200px;
+                                                                
+                                                                width: 260px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin-right:5px;
+                                                                
+                                                                background-image: url("lam.jpg");
+                                                                
+                                                                }
+
+                                                                .giftecnologi{
+                                    
+                                     
+                                    
+                                                                  background-repeat: no-repeat;
+                                                                  
+                                                                  float:left;
+                                                                  
+                                                                  height: 200px;
+                                                                  
+                                                                  width: 600px;
+                                                                  
+                                                                  margin-left: 5px;
+                                                                  
+                                                                  margin-right:5px;
+                                                                  
+                                                                  background-image: url("circuito_resistivo.webp");
+                                                                  
+                                                                  }
+
+                                                                  .giftecnologia{
+                                    
+                                     
+                                    
+                                                                    background-repeat: no-repeat;
+                                                                    
+                                                                    float:left;
+                                                                    
+                                                                    height: 400px;
+                                                                    
+                                                                    width: 900px;
+                                                                    
+                                                                    margin-left: 5px;
+                                                                    
+                                                                    margin-right:5px;
+                                                                    
+                                                                    background-image: url("b25d5b381dcc731a48f3cd7a41ee35fc.gif");
+                                                                    
+                                                                    }
+                                    
+                                                        .textotecno{
+                                                
+                                                            text-align: justify;
+                                                            
+                                                            color: #020a20;
+                                                            
+                                                            font-size: 30px;
+                                                            
+                                                            
+                                                            
+                                                            }
+                                                            
+
+
+                    
+                    
+                    
+                    

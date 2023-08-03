@@ -1,0 +1,275 @@
+.contenedor{
+    width:100%;   
+    height: 1400px;
+    background-color: #ccc299c2;
+
+
+}
+
+.encabezado{
+    width:100%;
+    height: 200px;
+    background-color: rgb(162,202,234);
+    text-align: center;
+    font-size: 35px;
+
+    
+}
+
+.menu{
+
+    width: 100%;
+    height: 100px;
+    background-color: rgb(190,232,251);
+    display: flex;
+}   
+
+.contenedor2{
+
+    width:100%;
+    height: 1200px;
+    background-color: rgb(153, 132, 99);
+    display:flex;
+}
+
+.izquierdo{
+
+    width:20%;
+    height: 3405px;
+    background-color: rgb(162,202,234);
+
+}
+
+.centro{
+
+    width:60%;
+    height: 3405px;
+    background-color: rgb(234,244,254);
+    color: blue;
+    font-size: 20px;
+    color: rgb(22, 35, 92);
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("arbol.jpeg.jpeg");
+    background-repeat: no-repeat;
+
+
+   
+}
+    
+
+
+
+.GobiernoEscolar{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+
+}
+
+
+.DemocraciaEscolar{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+}
+
+
+.DemocraciaModerna{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+
+
+}
+
+
+.DIHenColombia{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+
+
+
+}
+
+.DerechosydefensaenColombia{
+
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+}
+
+
+.Naturaleza{
+
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+
+}
+
+
+.ITS{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+}
+
+
+.Clamidia{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+}
+
+
+.HepatitisB{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+
+}
+
+.derecho{
+
+    width:20%;
+    height: 3405px;
+    background-color: rgb(162,202,234);
+}
+
+.Sociales{
+
+   width: 100px;
+   height: 98px;
+   background-color: rgb(101, 142, 171);
+   margin: 2px;
+
+}
+
+.Ingles{
+   width:100px;
+   height:98px;
+   background-color: rgb(72, 113, 141);
+   margin: 2px;
+   
+   
+
+}
+
+.Matematicas{
+    width:100px;
+    height:98;
+    background-color: rgb(102, 116, 116);
+    margin: 2px;
+
+}
+
+.Biologia{
+    width:100px;
+    height:98px;
+    background-color: rgb(132, 171, 202);
+    margin: 2px;
+
+}
+
+.Tecnologia{
+
+
+    width:100px;
+    height:98px;
+    background-color: rgb(101, 142, 171);
+    margin: 2px;
+
+}
+
+
+
+.GobiernoEscolar{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+
+}
+
+
+.DemocraciaEscolar{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+}
+
+
+.DemocraciaModerna{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+
+
+}
+
+
+.DIHenColombia{
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+
+
+
+}
+
+.DerechosydefensaenColombia{
+
+
+    width: 100px;
+    height: 98px; ;
+    background-color:rgb(101, 142, 171);
+    margin: 2px;
+
+
+
+
+
+
+
+
+
+}
