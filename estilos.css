@@ -596,6 +596,110 @@ background-repeat: no-repeat;
                                                             
                                                             
                                                             }
+                                                            .contenido{
+            
+                                                              height: 280px;
+                                                              
+                                                              width: 100%;
+                                                              
+                                                              position: absolute;
+                                                              
+                                                              top: 410px;
+                                                              
+                                                               
+                                                              
+                                                              }
+                                                              .textoi{
+                                                
+                                                                text-align: justify;
+                                                                
+                                                                color: #020a20;
+                                                                
+                                                                font-size: 30px;
+                                                                
+                                                                
+                                                                
+                                                                }
+                                                                .contenido{
+            
+                                                                  height: 280px;
+                                                                  
+                                                                  width: 100%;
+                                                                  
+                                                                  position: absolute;
+                                                                  
+                                                                  top: 410px;
+                                                                  
+                                                              
+                                                                  
+                                                                  }
+
+                                                                  .imageno{
+                                    
+                                     
+                                    
+                                                                    background-repeat: no-repeat;
+                                                                    
+                                                                    float:left;
+                                                                    
+                                                                    height: 200px;
+                                                                    
+                                                                    width: 260px;
+                                                                    
+                                                                    margin-left: 5px;
+                                                                    
+                                                                    margin-right:5px;
+                                                                    
+                                                                    background-image: url("Sociales-Revolución\ industrial.pdf");
+                                                                    
+                                                                    }
+                                                                    .imagenoo{
+                                    
+                                     
+                                    
+                                                                      background-repeat: no-repeat;
+                                                                      
+                                                                      float:left;
+                                                                      
+                                                                      height: 200px;
+                                                                      
+                                                                      width: 260px;
+                                                                      
+                                                                      margin-left: 5px;
+                                                                      
+                                                                      margin-right:5px;
+                                                                      
+                                                                      background-image: url("Sociales-RI2.pdf");
+                                                                      
+                                                                      }
+
+                                                                      .contenido{
+            
+                                                                  height: 280px;
+                                                                  
+                                                                  width: 100%;
+                                                                  
+                                                                  position: absolute;
+                                                                  
+                                                                  top: 410px;
+                                                                  
+                                                              
+                                                                  
+                                                                  }
+                                                                  .textoa{
+                                                
+                                                                    text-align: justify;
+                                                                    
+                                                                    color: #020a20;
+                                                                    
+                                                                    font-size: 30px;
+                                                                    
+                                                                    
+                                                                    
+                                                                    }
+
+                                                                  
+
                                                             
 
 
