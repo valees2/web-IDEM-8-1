@@ -620,6 +620,159 @@ background-repeat: no-repeat;
                                                                 
                                                                 
                                                                 }
+                                                                .imagen1{
+                                    
+                                     
+                                    
+                                                                  background-repeat: no-repeat;
+                                                                  
+                                                                  float:left;
+                                                                  
+                                                                  height: 300px;
+                                                                  
+                                                                  width: 300px;
+                                                                  
+                                                                  margin-left: 5px;
+                                                                  
+                                                                  margin-right:5px;
+                                                                  
+                                                                  background-image: url("1.jpg");
+                                                                  
+                                                                  }
+                                                                  .imagen2{
+                                    
+                                     
+                                    
+                                                                    background-repeat: no-repeat;
+                                                                    
+                                                                    float:left;
+                                                                    
+                                                                    height: 473px;
+                                                                    
+                                                                    width: 505px;
+                                                                    
+                                                                    margin-left: 5px;
+                                                                    
+                                                                    margin-right:5px;
+                                                                    
+                                                                    background-image: url("2.jpg");
+                                                                    
+                                                                    }
+                                                                    .imagen3{
+                                    
+                                     
+                                    
+                                                                      background-repeat: no-repeat;
+                                                                      
+                                                                      float:left;
+                                                                      
+                                                                      height: 434px;
+                                                                      
+                                                                      width: 417px;
+                                                                      
+                                                                      margin-left: 5px;
+                                                                      
+                                                                      margin-right:5px;
+                                                                      
+                                                                      background-image: url("3.jpg");
+                                                                      
+                                                                      }
+                                                                      .imagen4{
+                                    
+                                     
+                                    
+                                                                        background-repeat: no-repeat;
+                                                                        
+                                                                        float:left;
+                                                                        
+                                                                        height: 507px;
+                                                                        
+                                                                        width: 496px;
+                                                                        
+                                                                        margin-left: 5px;
+                                                                        
+                                                                        margin-right:5px;
+                                                                        
+                                                                        background-image: url("4.jpg");
+                                                                        
+                                                                        }
+                                                                        .imagen5{
+                                    
+                                     
+                                    
+                                                                          background-repeat: no-repeat;
+                                                                          
+                                                                          float:left;
+                                                                          
+                                                                          height: 467px;
+                                                                          
+                                                                          width: 481px;
+                                                                          
+                                                                          margin-left: 5px;
+                                                                          
+                                                                          margin-right:5px;
+                                                                          
+                                                                          background-image: url("5.jpg");
+                                                                          
+                                                                          }
+                                                                          .imagen6{
+                                    
+                                     
+                                    
+                                                                            background-repeat: no-repeat;
+                                                                            
+                                                                            float:left;
+                                                                            
+                                                                            height: 389px;
+                                                                            
+                                                                            width: 392px;
+                                                                            
+                                                                            margin-left: 5px;
+                                                                            
+                                                                            margin-right:5px;
+                                                                            
+                                                                            background-image: url("6.jpg");
+                                                                            
+                                                                            }
+                                                                            .imagen7{
+                                    
+                                     
+                                    
+                                                                              background-repeat: no-repeat;
+                                                                              
+                                                                              float:left;
+                                                                              
+                                                                              height: 629px;
+                                                                              
+                                                                              width: 612px;
+                                                                              
+                                                                              margin-left: 5px;
+                                                                              
+                                                                              margin-right:5px;
+                                                                              
+                                                                              background-image: url("7.jpg");
+                                                                              
+                                                                              }
+                                                                              .imagen8{
+                                    
+                                     
+                                    
+                                                                                background-repeat: no-repeat;
+                                                                                
+                                                                                float:left;
+                                                                                
+                                                                                height: 556px;
+                                                                                
+                                                                                width: 514px;
+                                                                                
+                                                                                margin-left: 5px;
+                                                                                
+                                                                                margin-right:5px;
+                                                                                
+                                                                                background-image: url("8\ \(2\).jpg");
+                                                                                
+                                                                                }
+
                                                                 .contenido{
             
                                                                   height: 280px;
@@ -642,15 +795,15 @@ background-repeat: no-repeat;
                                                                     
                                                                     float:left;
                                                                     
-                                                                    height: 200px;
+                                                                    height: 905px;
                                                                     
-                                                                    width: 260px;
+                                                                    width: 1953px;
                                                                     
                                                                     margin-left: 5px;
                                                                     
                                                                     margin-right:5px;
                                                                     
-                                                                    background-image: url("Sociales-Revolución\ industrial.pdf");
+                                                                    background-image: url("Beige\ Scrapbook\ Art\ and\ History\ Museum\ Infographic.png");
                                                                     
                                                                     }
                                                                     .imagenoo{
@@ -661,15 +814,15 @@ background-repeat: no-repeat;
                                                                       
                                                                       float:left;
                                                                       
-                                                                      height: 200px;
+                                                                      height: 800px;
                                                                       
-                                                                      width: 260px;
+                                                                      width: 1162px;
                                                                       
                                                                       margin-left: 5px;
                                                                       
                                                                       margin-right:5px;
                                                                       
-                                                                      background-image: url("Sociales-RI2.pdf");
+                                                                      background-image: url("Infografía\ de\ Proceso\ Periódico\ Vintage\ Antiguo\ Marrón.png");
                                                                       
                                                                       }
 
