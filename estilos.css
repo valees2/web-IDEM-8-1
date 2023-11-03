@@ -609,7 +609,7 @@ background-repeat: no-repeat;
                                                                
                                                               
                                                               }
-                                                              .textoi{
+                                                              .textoa{
                                                 
                                                                 text-align: justify;
                                                                 
@@ -620,6 +620,8 @@ background-repeat: no-repeat;
                                                                 
                                                                 
                                                                 }
+                                                                
+                                                                  
                                                                 .imagen1{
                                     
                                      
@@ -795,13 +797,13 @@ background-repeat: no-repeat;
                                                                     
                                                                     float:left;
                                                                     
-                                                                    height: 905px;
+                                                                    height: 1980px;
                                                                     
-                                                                    width: 1953px;
+                                                                    width: 900px;
                                                                     
-                                                                    margin-left: 5px;
+                                                                    margin-left: 10px;
                                                                     
-                                                                    margin-right:5px;
+                                                                    margin-right:10px;
                                                                     
                                                                     background-image: url("Beige\ Scrapbook\ Art\ and\ History\ Museum\ Infographic.png");
                                                                     
@@ -814,9 +816,9 @@ background-repeat: no-repeat;
                                                                       
                                                                       float:left;
                                                                       
-                                                                      height: 800px;
+                                                                      height: 1000px;
                                                                       
-                                                                      width: 1162px;
+                                                                      width: 900px;
                                                                       
                                                                       margin-left: 5px;
                                                                       
@@ -850,6 +852,32 @@ background-repeat: no-repeat;
                                                                     
                                                                     
                                                                     }
+
+                                                                    .contenido{
+            
+                                                                      height: 280px;
+                                                                      
+                                                                      width: 100%;
+                                                                      
+                                                                      position: absolute;
+                                                                      
+                                                                      top: 410px;
+                                                                      
+                                                                  
+                                                                      
+                                                                      }
+                                                                      .textocomuss{
+                                                    
+                                                                        text-align: justify;
+                                                                        
+                                                                        color: #020a20;
+                                                                        
+                                                                        font-size: 50px;
+                                                                        
+                                                                        
+                                                                        
+                                                                        }
+
 
                                                                   
 
