@@ -6,7 +6,7 @@ ul, ol{
     list-style: none;
 }
 .botones li a{
-    background-color: rgb(109, 152, 172);
+    background-color: #ddb7ab;
     color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 10px 10px;
@@ -24,7 +24,7 @@ ul, ol{
     display: block;
 }
 .botones li a:hover {
-    background-color: rgb(235, 238, 238);
+    background-color: #efd9d1;
 }
 .menu li ul{
 position: absolute;

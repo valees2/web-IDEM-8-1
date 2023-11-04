@@ -11,57 +11,69 @@
     
     body{
     
- background-image: url("");
+ background-image: url("fondotec3.jpg");
     
 background-repeat: no-repeat;
     
     }
-
-.fondomatematicas2{
+    body
+    .fondoig3{
     
-  background-image: url("");
-        
-  background-repeat: no-repeat;
-        
-   }
-
- .fondotecnologia2{
+ background-image: url("fondosoc3.jpg");
     
-  background-image: url("");
-            
 background-repeat: no-repeat;
-     
- }
-   .fondobiologia2{
     
-background-image: url("");
-                
- background-repeat: no-repeat;
-                
-                }              
-  .fondoreligion2{
+    }
+    body
+    .fondotec3{
     
-background-image: url("");
-          
-background-repeat: no-repeat;
+      background-image: url("fondosoc3.jpg");
+         
+     background-repeat: no-repeat;
+         
+         }
+         body
+         .fondomat3{
+    
+          background-image: url("fondosoc3.jpg");
+             
+         background-repeat: no-repeat;
+             
+             }
+             body
+             .fondosoc3{
+    
+              background-image: url("fondosoc3.jpg");
                  
- }
-  .fondoingles2{
+             background-repeat: no-repeat;
+                 
+                 }
+                 body
+             .fondorel3{
     
-background-image: url("");
-                        
-background-repeat: no-repeat;
-                        
-  }
-    
-  
-  .fondosociales2{
-    
-    background-image: url("");
-                            
-    background-repeat: no-repeat;
-                            
-      }
+              background-image: url("fondosoc3.jpg");
+                 
+             background-repeat: no-repeat;
+                 
+                 }
+                 body
+                 .fondosbig3{
+        
+                  background-image: url("fondosoc3.jpg");
+                     
+                 background-repeat: no-repeat;
+                     
+                     }
+                     body
+                 .fondoindex3{
+        
+                  background-image: url("fondosoc3.jpg");
+                     
+                 background-repeat: no-repeat;
+                     
+                     }
+                      
+                  
     
     
     .img{
@@ -82,7 +94,7 @@ background-repeat: no-repeat;
     
     left: 180px;
     
-    background-image: url("moon.jpg");
+    background-image: url("");
     
     }
     
@@ -866,13 +878,13 @@ background-repeat: no-repeat;
                                                                   
                                                                       
                                                                       }
-                                                                      .textocomuss{
+                                                                      .textocomu{
                                                     
                                                                         text-align: justify;
                                                                         
                                                                         color: #020a20;
                                                                         
-                                                                        font-size: 50px;
+                                                                        font-size: 30px;
                                                                         
                                                                         
                                                                         
